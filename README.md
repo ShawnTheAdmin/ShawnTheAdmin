@@ -15,4 +15,4 @@
   </a>
 </p>
 
-<p align="center">[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)</p>
+<p align="center" style="padding-top:10"> <img src="https://badges.pufler.dev/commits/monthly/puf17640"></p>
