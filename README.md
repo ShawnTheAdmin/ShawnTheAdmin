@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shawn! :wave:</h1>
 
-<p align="center">A Systems Engineer out of Milwaukee Wisconsin - let's talk!</p>
+<p align="center">A Systems Engineer out of Milwaukee Wisconsin - lets talk!</p>
 <p align="center">
   <a href="mailto:sa.watkins90@gmail.com">
       <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
