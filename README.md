@@ -15,4 +15,4 @@
   </a>
 </p>
 
-<p align="center" style="padding-top:10"> <img src="https://badges.pufler.dev/commits/monthly/puf17640"></p>
+<p align="center"> <img src="https://badges.pufler.dev/commits/monthly/puf17640"></p>
