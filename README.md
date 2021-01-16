@@ -15,5 +15,5 @@
   </a>
 </p>
 <div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=shawntheadmin.visitor-badge" alt="visitor badge"/>
 </div>
