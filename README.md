@@ -14,5 +14,7 @@
     <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>
   </a>
 </p>
+<div align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 <p align="center"> <img src="https://badges.pufler.dev/commits/monthly/puf17640"></p>
+</div>
