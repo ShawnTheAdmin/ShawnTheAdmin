@@ -15,6 +15,5 @@
   </a>
 </p>
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
-<p align="center"> <img src="https://badges.pufler.dev/commits/monthly/puf17640"></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 </div>
